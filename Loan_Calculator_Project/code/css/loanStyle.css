@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.form-group{
+    padding-bottom: 1rem;
+}
+div #calculate{ 
+    width: 100%;
+    padding: 0.7rem;
+}
+div #loading, #results {
+    display: none;
+}
+div .form-control{
+    padding: 0.7rem;
+}
